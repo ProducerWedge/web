@@ -71,7 +71,7 @@
 
         <div class="container">
             <img width:40px src="picture.jpg"></img>
-            <h1>Welcome to the Neighborhood</h1>
+            <h1>Welcome to My Neighborhood</h1>
             <p class="author">Stories by Rick Mace</p>
           <h1>Lawnmower</h1>
             <p>The day began by being torn from my sleep by the sound of my neighbor’s Ferris IS6200 Zero Turn Mower. His name was Frank, he’s what some called an eccentric lunatic. He enjoyed the smell of a Camellia Japonica at dawn and a French machine gun being fired in pitch dark. A large man, with a beard consisting of splintered grey and black hairs, bifocals and always adorned in a bolo tie. The tie had a centerpiece that contained a small compartment that held his middle finger’s distal phalanx, or tip. He lost it in a bowling accident during a late-night high-stakes tournament with the Lucky Strikes, a team of four delinquents that were known to put super glue in their opponent's bowling ball sockets. When Frank bowled the last frame for the win the tip of his middle finger was ripped off as the ball continued down the lane for a strike and the win. Later that night he distinguished his lit lucky strike cigarette in the eye socket of the leader of the Strikes for payback and the actual win.</p>
@@ -138,6 +138,25 @@
           The next day I came outside of my house to see two police cars across the street. The neighbor was frantic, someone she believed had stolen her car. I knew at that moment that El Pedo was gone. I looked down to see a yellow beanie and a fresh pack of Marlboros at my feet. Goodbye my friend, I will miss you! Hang on a second, where’s my wallet?
         </p>
         
+
+          <form action="#" method="POST">
+            <label> Name: 
+              <input type="text" name="Name" class="Input" style="width: 225px" required>
+             </label>
+            <label> Comment:
+              <textarea id="message" name="Comment" rows="4" required></textarea>
+            </label>
+            <input type="submit" name="Submit" value="Submit Comment" class="Submit">
+          </form>
+      </div>
+      <div class="container">
+        <h1>Backyard Fence Tennis</h1>
+          <p>A couple of months ago my neighbor and I started a new game called, Backyard Fence Tennis. He would throw a fallen branch over my fence; I would throw it back (15-All). He would use a leaf blower to send leaves over my fence. I would blow grass clippings over his (30 - All). He set up some kind of makeshift PA system on his patio and had midnight disco extravaganzas. I set up my own speaker system and did thirty-minute extended versions of Ice Ice Baby by Vanilla Ice at sunrise - until I heard sirens coming down my street. (40 -All).</p>
+          <p> It was all in great fun, rocks thrown back and forth, windows broken, stitches applied until the one day my curiosity got the best of me. I decided to look through an open knothole in the fence to see my nemesis. When I looked through a giant bloodshot eye stared back at me as the remnants of used cigarette smoke filled my lungs. I fell back in fear. I heard him yelling something, a dog began barking ferociously. I looked up to see a large Pitbull soaring over my fence. He had used his doghouse as a launching pad.</p>
+          <p>The dog landed in full gallop, stopped, and then raised his nose into the air. He took a deep breath and slowly turned. Our eyes met. Play dead or run, I couldn’t decide. I just closed my eyes and hoped for the best. I could hear the crunch of leaves under his feet as he made his way towards me. At the last second, I decided to make a run for it. He watched me sprint towards the backdoor as he wagged his tail. Luck was on my side today! Since he was friendly, I kept the dog and helped my wife over the fence to continue the game.</p>
+        <p>Ten minutes later I heard my neighbor yelling as he launched himself over the fence. He landed face-first in the yard and then immediately leapt into the bushes. I could hear my wife complaining about his backyard and what needed to be done to straighten it up. My neighbor continued to hide in the bushes and whimper. Empathy poured from me as I watched.  I walked over and looked down at the beaten creature some would call a husband. The voice blared from the other side of the fence, “I could use some help over here. I don’t have all day!” I motioned to my neighbor to be quiet as I helped him up. We silently crept away to live another day.  Game-Set-Match.</p>
+        
+
 
           <form action="#" method="POST">
             <label> Name: 
